@@ -1,5 +1,7 @@
 # Online Shop 50% Complete (Old Project)
 
+Desktop Version, No Responsive
+
 ## Color Reference
 
 | Color             | Hex                                                                |
