@@ -1,0 +1,28 @@
+{
+    "Categories":[
+        {
+            "cat_id":"1",
+            "name":"Speaker bluetooth Anker",
+            "media":"/speaker bluetooth/Anker/711jx4SW4DL._AC_SL1500_.jpg"
+            
+        },
+        {
+            "cat_id":"2",
+            "name":"Speaker bluetooth JBL",
+            "media":"/speaker bluetooth/JBL/714v51b8bpL._AC_SL1500_.jpg"
+            
+        },
+        {
+            "cat_id":"3",
+            "name":"Speaker bluetooth",
+            "media":"/speaker bluetooth/Anker/711jx4SW4DL._AC_SL1500_.jpg"
+            
+        },
+        {
+            "cat_id":"4",
+            "name":"Speaker bluetooth",
+            "media":"/speaker bluetooth/Anker/711jx4SW4DL._AC_SL1500_.jpg"
+            
+        }
+    ]
+}
