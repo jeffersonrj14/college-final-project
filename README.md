@@ -39,10 +39,10 @@ Javascript, HTML, CSS, Php, MySQL.
 
 ## Authors
 
-- [Jefferson](https://links.jeffersonfed.xyz)
-- [Bank San](https://www.instagram.com/bank_44san)
-- [Maritou](https://www.instagram.com/asmith_malith/)
-- 西田
-- [Muhammad Raffi](https://github.com/Wallens11)
+- [Jefferson/ジェファソン](https://links.jeffersonfed.xyz)
+- [Bank San/ソン](https://www.instagram.com/bank_44san)
+- [Maritou/マリトゥ](https://www.instagram.com/asmith_malith/)
+- 西田/ニシダ
+- [Muhammad Raffi/ラッフィ](https://github.com/Wallens11)
 
 #### Last Updated March 2023
