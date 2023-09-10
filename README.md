@@ -37,7 +37,7 @@ Javascript, HTML, CSS, Php, MySQL.
 
 ## Authors
 
-- [Jefferson](https://github.com/jeffersonfed)
+- [Jefferson](https://links.jeffersonfed.xyz)
 - [Bank San](https://www.instagram.com/bank_44san)
 - [Maritou](https://www.instagram.com/asmith_malith/)
 - 西田
