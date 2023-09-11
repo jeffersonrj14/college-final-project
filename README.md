@@ -11,7 +11,7 @@ Desktop Version, No Responsive
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Php, MySQL.
+Javascript, HTML, CSS, PHP, MySQL, SCSS, Less.
 
 ## Overview
 
