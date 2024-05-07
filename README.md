@@ -1,6 +1,6 @@
 # Online Shop 50% Complete (Old Project)
 
-Desktop Version, No Responsive
+Desktop Version, Not Responsive
 
 ## Color Reference
 
@@ -10,7 +10,7 @@ Desktop Version, No Responsive
 | White | ![#fff](https://via.placeholder.com/10/fff?text=+) #fff |
 
 
-## 🛠 Skills
+## 🛠 Tech used:
 Javascript, HTML, CSS, PHP, MySQL, SCSS, Less.
 
 ## Overview
@@ -37,9 +37,9 @@ Javascript, HTML, CSS, PHP, MySQL, SCSS, Less.
 </div>
 
 
-## Authors
+## Authors (Not all people have GitHub.)
 
-- [Jefferson/ジェファソン](https://links.jeffersonfed.xyz)
+- [Jefferson/ジェファソン](https://github.com/jeffersonrj14)
 - [Bank San/ソン](https://www.instagram.com/bank_44san)
 - [Maritou/マリトゥ](https://www.instagram.com/asmith_malith/)
 - 西田/ニシダ
